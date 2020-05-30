@@ -2,4 +2,4 @@
 
 ## Architecture
 
-![アーキテクチャー構成図](https://github.com/tissueMO/rpgdev-cloud/blob/master/_figures/architecture.draw.io.svg)
+![アーキテクチャー構成図](https://github.com/tissueMO/rpgdev-cloud/blob/master/_figures/architecture.drawio.svg)
